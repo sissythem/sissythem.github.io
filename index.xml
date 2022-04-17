@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sissy Themeli</title><link>https://sthemeli.gitlab.io/academic/</link><atom:link href="https://sthemeli.gitlab.io/academic/index.xml" rel="self" type="application/rss+xml"/><description>Sissy Themeli</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>{2021}</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://sthemeli.gitlab.io/academic/images/icon_hu67156ce36ff7ee509cd10a04dec50ed5_3656_512x512_fill_lanczos_center_2.png</url><title>Sissy Themeli</title><link>https://sthemeli.gitlab.io/academic/</link></image><item><title>Example Talk</title><link>https://sthemeli.gitlab.io/academic/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://sthemeli.gitlab.io/academic/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sissy Themeli</title><link>https://sissythem.github.io/academic/</link><atom:link href="https://sissythem.github.io/academic/index.xml" rel="self" type="application/rss+xml"/><description>Sissy Themeli</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>{2021}</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://sissythem.github.io/academic/images/icon_hu67156ce36ff7ee509cd10a04dec50ed5_3656_512x512_fill_lanczos_center_3.png</url><title>Sissy Themeli</title><link>https://sissythem.github.io/academic/</link></image><item><title>Example Talk</title><link>https://sissythem.github.io/academic/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://sissythem.github.io/academic/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
 &lt;/div>
@@ -9,15 +9,130 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Welcome to Sissy's personal website!</title><link>https://sthemeli.gitlab.io/academic/post/getting-started/</link><pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate><guid>https://sthemeli.gitlab.io/academic/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2></description></item><item><title>DARE Platform: a Developer-Friendly and Self-Optimising Workflows-as-a-Service Framework for e-Science on the Cloud</title><link>https://sthemeli.gitlab.io/academic/publication/dare/</link><pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate><guid>https://sthemeli.gitlab.io/academic/publication/dare/</guid><description/></item><item><title>A study of text representations for Hate Speech Detection</title><link>https://sthemeli.gitlab.io/academic/publication/hatespeech/</link><pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate><guid>https://sthemeli.gitlab.io/academic/publication/hatespeech/</guid><description/></item><item><title>DARE Project</title><link>https://sthemeli.gitlab.io/academic/project/dare/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://sthemeli.gitlab.io/academic/project/dare/</guid><description>&lt;p>The DARE platform provides all the necessary tools to research developers to develop and execute their experiments written using either the fine-grained workflow specification library dispel4py or CWL. Moreover, the DARE platform offers data provenance to the users so as to track and analyze their data. The DARE platform is cloud-ready, integrating containerized software applications running on top of Kubernetes. Kubernetes enables automated deployment, scaling and management of containerized applications. Research developers can interact with the DARE platform by making use of its RESTful API. DARE API is a composition of RESTful Web APIs exposed by the containerized versions of the underlying DARE platform components. For more information about the DARE Project visit our site at &lt;a href="http://project-dare.eu/">http://project-dare.eu/&lt;/a>.&lt;/p></description></item><item><title>DebateLab</title><link>https://sthemeli.gitlab.io/academic/project/debatelab/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://sthemeli.gitlab.io/academic/project/debatelab/</guid><description>&lt;p>DebateLab intends to pioneer research towards unlockng the potential of the new dialectical nature of the Web, relying on the coupling of mature fields namely Computational Argumentation, Natural Language Processing, Information Retrieval, Machine Learning, and the Semantic Web. The aim of DebateLab is dual purpose; a) conduct research towards devloping the required thoeoretical infrastructure for representing, mining and reasoning with online arguments, and b) develop and deliver a suite of tools and services (e-journalism domain) supporting the uptake and initial exploitation of the related technologies.&lt;/p></description></item><item><title>FAIR4Fusion Project</title><link>https://sthemeli.gitlab.io/academic/project/f4f/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://sthemeli.gitlab.io/academic/project/f4f/</guid><description>&lt;p>I worked in the FAIR4Fusion project as a Software Engineer. The project&amp;rsquo;s goal was to
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Welcome to Sissy's personal website!</title><link>https://sissythem.github.io/academic/post/getting-started/</link><pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate><guid>https://sissythem.github.io/academic/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2></description></item><item><title>DARE Platform: a Developer-Friendly and Self-Optimising Workflows-as-a-Service Framework for e-Science on the Cloud</title><link>https://sissythem.github.io/academic/publication/dare/</link><pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate><guid>https://sissythem.github.io/academic/publication/dare/</guid><description/></item><item><title>A study of text representations for Hate Speech Detection</title><link>https://sissythem.github.io/academic/publication/hatespeech/</link><pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate><guid>https://sissythem.github.io/academic/publication/hatespeech/</guid><description/></item><item><title>Slides</title><link>https://sissythem.github.io/academic/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://sissythem.github.io/academic/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Efficiently write slides in Markdown&lt;/li>
+&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
+&lt;li>Supports speaker notes&lt;/li>
+&lt;li>Mobile friendly slides&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="controls">Controls&lt;/h2>
+&lt;ul>
+&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
+&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
+&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
+&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
+&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
+&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
+&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
+&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
+&lt;li>&lt;a href="https://github.com/hakimel/reveal.js#pdf-export" target="_blank" rel="noopener">PDF Export&lt;/a>: &lt;code>E&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
+&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
+&lt;p>Code block:&lt;/p>
+&lt;pre>&lt;code class="language-python">porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+print(&amp;quot;Eating...&amp;quot;)
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h2 id="math">Math&lt;/h2>
+&lt;p>In-line math: $x + y = z$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p>
+&lt;hr>
+&lt;h2 id="fragments">Fragments&lt;/h2>
+&lt;p>Make content appear incrementally&lt;/p>
+&lt;pre>&lt;code>{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code>&lt;/pre>
+&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
+&lt;span class="fragment " >
+One
+&lt;/span>
+&lt;span class="fragment " >
+**Two**
+&lt;/span>
+&lt;span class="fragment " >
+Three
+&lt;/span>
+&lt;hr>
+&lt;p>A fragment can accept two optional parameters:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
+&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
+&lt;p>Add speaker notes to your presentation&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code>&lt;/pre>
+&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Only the speaker can read these notes&lt;/li>
+&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;ul>
+&lt;li>black: Black background, white text, blue links (default)&lt;/li>
+&lt;li>white: White background, black text, blue links&lt;/li>
+&lt;li>league: Gray background, white text, blue links&lt;/li>
+&lt;li>beige: Beige background, dark text, brown links&lt;/li>
+&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>night: Black background, thick white text, orange links&lt;/li>
+&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
+&lt;li>simple: White background, black text, blue links&lt;/li>
+&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;section data-noprocess data-shortcode-slide
+data-background-image="/media/boards.jpg"
+>
+&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
+&lt;p>Customize the slide style and background&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
+&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
+&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
+&lt;pre>&lt;code class="language-css">.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+color: navy;
+}
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h1 id="questions">Questions?&lt;/h1>
+&lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>DARE Project</title><link>https://sissythem.github.io/academic/project/dare/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://sissythem.github.io/academic/project/dare/</guid><description>&lt;p>The DARE platform provides all the necessary tools to research developers to develop and execute their experiments written using either the fine-grained workflow specification library dispel4py or CWL. Moreover, the DARE platform offers data provenance to the users so as to track and analyze their data. The DARE platform is cloud-ready, integrating containerized software applications running on top of Kubernetes. Kubernetes enables automated deployment, scaling and management of containerized applications. Research developers can interact with the DARE platform by making use of its RESTful API. DARE API is a composition of RESTful Web APIs exposed by the containerized versions of the underlying DARE platform components. For more information about the DARE Project visit our site at &lt;a href="http://project-dare.eu/" target="_blank" rel="noopener">http://project-dare.eu/&lt;/a>.&lt;/p></description></item><item><title>DebateLab</title><link>https://sissythem.github.io/academic/project/debatelab/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://sissythem.github.io/academic/project/debatelab/</guid><description>&lt;p>DebateLab intends to pioneer research towards unlockng the potential of the new dialectical nature of the Web, relying on the coupling of mature fields namely Computational Argumentation, Natural Language Processing, Information Retrieval, Machine Learning, and the Semantic Web. The aim of DebateLab is dual purpose; a) conduct research towards devloping the required thoeoretical infrastructure for representing, mining and reasoning with online arguments, and b) develop and deliver a suite of tools and services (e-journalism domain) supporting the uptake and initial exploitation of the related technologies.&lt;/p></description></item><item><title>FAIR4Fusion Project</title><link>https://sissythem.github.io/academic/project/f4f/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://sissythem.github.io/academic/project/f4f/</guid><description>&lt;p>I worked in the FAIR4Fusion project as a Software Engineer. The project&amp;rsquo;s goal was to
 make European (or nationally when permitted) funded data more widely available to the
 fusion community, other science communities, funding bodies, and the public at large in
 order to maximise the impact of, the data and demonstrate the importance of the work
 done at relevant sites. I was involved in the development of a demonstrator, written in
-python using the Django Framework.&lt;/p></description></item><item><title>G.N.T. Information Systems S.A.</title><link>https://sthemeli.gitlab.io/academic/project/gnt/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://sthemeli.gitlab.io/academic/project/gnt/</guid><description>&lt;p>I worked as a Software Engineer implementing multiple projects using Java EE/Spring
+python using the Django Framework.&lt;/p></description></item><item><title>G.N.T. Information Systems S.A.</title><link>https://sissythem.github.io/academic/project/gnt/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://sissythem.github.io/academic/project/gnt/</guid><description>&lt;p>I worked as a Software Engineer implementing multiple projects using Java EE/Spring
 frameworks for backend services(EJB3,Spring Framework, Hibernate, RESTful and SOAP
 web services), with test-driven approach (JUnit and integration tests).
-Participated also in UI projects written with Vaadin and Android frameworks.&lt;/p></description></item><item><title>VoiceWeb S.A.</title><link>https://sthemeli.gitlab.io/academic/project/voiceweb/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://sthemeli.gitlab.io/academic/project/voiceweb/</guid><description>&lt;p>I worked as a Software Engineer designing and developing speech recognition and
+Participated also in UI projects written with Vaadin and Android frameworks.&lt;/p></description></item><item><title>Linked Business S.A.</title><link>https://sissythem.github.io/academic/project/linked_business/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://sissythem.github.io/academic/project/linked_business/</guid><description/></item><item><title>VoiceWeb S.A.</title><link>https://sissythem.github.io/academic/project/voiceweb/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://sissythem.github.io/academic/project/voiceweb/</guid><description>&lt;p>I worked as a Software Engineer designing and developing speech recognition and
 NLU/NLP applications. Additionally, I was responsible for the redesign and implementation
 of the company’s products (Dialog Manager and NLI platform) to follow the micro-services
 architecture paradigm. I have implemented various improvements on the application’s
@@ -27,4 +142,4 @@ Manager application. Moreover, I have redesigned and implemented a new UI from s
 the NLI platform product.&lt;/p>
 &lt;ul>
 &lt;li>Technologies used included Python, Java, Spring Framework, Spring MVC, RESTful and SOAP web services, Vaadin and others&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://sthemeli.gitlab.io/academic/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sthemeli.gitlab.io/academic/admin/config.yml</guid><description/></item></channel></rss>
+&lt;/ul></description></item><item><title/><link>https://sissythem.github.io/academic/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sissythem.github.io/academic/admin/config.yml</guid><description/></item></channel></rss>

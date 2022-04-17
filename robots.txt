@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://sthemeli.gitlab.io/academic/sitemap.xml
+Sitemap: https://sissythem.github.io/academic/sitemap.xml
