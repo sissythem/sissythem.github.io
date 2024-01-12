@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Poppins"
+
+# Optional Google font URL
+google_fonts = "family=Poppins:wght@100;400&display=swap"
+
+# Font families
+heading_font = "Poppins"
+body_font = "Poppins"
+nav_font = "Poppins"
+mono_font = "Poppins"
