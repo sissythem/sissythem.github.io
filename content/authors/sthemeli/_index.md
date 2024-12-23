@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/resume_short.pdf
+  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,4 +73,4 @@ highlight_name: false
 
 Experienced Software Engineer, always keen in learning new technologies and improving her skills, currently working as a Senior Software Engineer at Unitary Ltd. Sissy has worked as a researcher at NCSR Demokritos in the areas of Deep Learning and e-infrastructures, contributing to multiple projects such as the development of an argument mining system and the implementation of an e-science platform to hide infrastructure complexity and enable domain scietistis to execute data-intensive experiments. Moreover, she has demonstrated experience as a Backend Software Engineer in the industry, building web services and RESTful APIs on distributed / cloud-based environments on various domains such as dialog management systems, FinTech etc. Regarding her academic qualifications, she holds a M.Sc. in Computer Science with specialization in Machine Learning / Natural Language Processing from the University of Athens and a B.Sc. in Management Science and Technology from the Athens University of Economics and Business.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_short.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

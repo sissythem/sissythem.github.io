@@ -39,8 +39,3 @@
   name = "CV"
   url = "media/resume.pdf"
   weight = 70
-
-[[main]]
-  name = "CV short"
-  url = "media/resume_short.pdf"
-  weight = 80
