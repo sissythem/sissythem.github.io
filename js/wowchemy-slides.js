@@ -1,8 +1,8 @@
 (() => {
-  // ns-params:@params
+  // ns-hugo-params:<stdin>
   var slides = { highlight_style: "dracula", theme: "black" };
 
-  // ns-hugo:/tmp/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-modules/wowchemy@v0.0.0-20210219133516-05c772f38946/assets/js/wowchemy-utils.js
+  // ns-hugo-imp:/tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-modules/wowchemy@v0.0.0-20210219133516-05c772f38946/assets/js/wowchemy-utils.js
   function fixMermaid() {
     let mermaids = [];
     [].push.apply(mermaids, document.getElementsByClassName("language-mermaid"));
